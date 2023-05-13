@@ -28,7 +28,7 @@ timer = end_time - start_time
 print(timer)
 ```
  
-Realice pruebas para calcular fibonacci con iteración o con recursión. Determine desde que número de la serie la diferencia de tiempo se vuelve significativa. Importante: Revisar este hilo.
+Realice pruebas para calcular fibonacci con iteración o con recursión. Determine desde que número de la serie la diferencia de tiempo se vuelve significativa.
 
 **Punto 5** 
 
@@ -38,6 +38,6 @@ Crear cuenta en stackoverflow y adjuntar imagen en el repo
 
 **Punto 6** 
 
-Ir a linkedin y crear perfil....NO IMPORTA que estén iniciando, si tienen tiempo para redes poco útiles como fb, insta, o tiktok tienen tiempo para crear un perfil mamalon. Dejar enlace en el repo.
+Ir a linkedin y crear perfil.Dejar enlace en el repo.
 
 https://www.linkedin.com/in/yazney-alejandra-arenas-garrido-328643276
