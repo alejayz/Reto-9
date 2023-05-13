@@ -34,6 +34,10 @@ Realice pruebas para calcular fibonacci con iteración o con recursión. Determi
 
 Crear cuenta en stackoverflow y adjuntar imagen en el repo
 
+![Stack Overflow](https://github.com/alejayz/Reto-9/assets/124609988/0b82efb0-6117-48c7-b0e4-2800d1aaba89)
+
 **Punto 6** 
 
 Ir a linkedin y crear perfil....NO IMPORTA que estén iniciando, si tienen tiempo para redes poco útiles como fb, insta, o tiktok tienen tiempo para crear un perfil mamalon. Dejar enlace en el repo.
+
+https://www.linkedin.com/in/yazney-alejandra-arenas-garrido-328643276
